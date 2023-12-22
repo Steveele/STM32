@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "DLF162500LT-5028A1_Library")(type "KiCad")(uri "${KIPRJMOD}/DLF162500LT-5028A1_Library.pretty")(options "")(descr ""))
+)
